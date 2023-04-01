@@ -3,20 +3,10 @@
       {
         "id":1,
         "username":"Bipin",
-        "email":"bipin@gmail.com",
-        "password":"bipin"
-      }
-    ],
-    "expenses":[
-      {
-        "id":1,
-        "user":"bipin@gmail.com",
-        "amount":1000,
-        "date":"2018-01-01",
-        "category":"food",
-        "type":"expense"
+        "score":0
       }
     ]
+   
 }
 
 
